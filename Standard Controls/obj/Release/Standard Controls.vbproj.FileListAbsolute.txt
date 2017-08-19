@@ -1,0 +1,38 @@
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\csc.exe
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\csc.exe.config
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\csc.rsp
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\csi.exe
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\csi.rsp
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\System.AppContext.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\vbc.exe
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\vbc.exe.config
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\vbc.rsp
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\VBCSCompiler.exe
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\Standard Controls.dll.config
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\Standard Controls.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\Standard Controls.pdb
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\Standard Controls.xml
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.vbprojResolveAssemblyReference.cache
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard_Controls.Resources.resources
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.vbproj.GenerateResource.Cache
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.dll
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.xml
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.pdb
