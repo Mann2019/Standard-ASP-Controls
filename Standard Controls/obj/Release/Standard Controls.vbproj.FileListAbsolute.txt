@@ -36,3 +36,4 @@ C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Contr
 C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.dll
 C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.xml
 C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.pdb
+C:\Users\manpr\OneDrive\Documents\Visual Studio 2017\Projects\Standard-ASP-Controls\Standard Controls\obj\Release\Standard Controls.vbproj.CoreCompileInputs.cache
